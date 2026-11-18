@@ -55,3 +55,12 @@ nav a {
     text-decoration: none;
     margin: 15px;
 }
+
+
+
+footer {
+    background-color: #243b64;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
